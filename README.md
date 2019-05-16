@@ -1,0 +1,3 @@
+# FlutterMagneticLinkSearch
+Flutter磁链接搜索
+本项目所有链接仅学习使用
